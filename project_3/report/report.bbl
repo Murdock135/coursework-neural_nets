@@ -1,0 +1,130 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{d2l_bptt}{misc}{}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://d2l.ai/chapter_recurrent-neural-networks/bptt.html}}
+      \field{note}{Accessed: 2024-03-24}
+      \field{title}{Backpropagation Through Time}
+    \endentry
+    \entry{multivariate_chain_rule}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=5171aa5e30f59ce75c38d82fbd3a2b89}{%
+           family={notes},
+           familyi={n\bibinitperiod},
+           given={Paul's},
+           giveni={P\bibinitperiod},
+           prefix={online},
+           prefixi={o\bibinitperiod}}}%
+      }
+      \strng{namehash}{5171aa5e30f59ce75c38d82fbd3a2b89}
+      \strng{fullhash}{5171aa5e30f59ce75c38d82fbd3a2b89}
+      \strng{bibnamehash}{5171aa5e30f59ce75c38d82fbd3a2b89}
+      \strng{authorbibnamehash}{5171aa5e30f59ce75c38d82fbd3a2b89}
+      \strng{authornamehash}{5171aa5e30f59ce75c38d82fbd3a2b89}
+      \strng{authorfullhash}{5171aa5e30f59ce75c38d82fbd3a2b89}
+      \field{sortinit}{n}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://tutorial.math.lamar.edu/classes/calciii/chainrule.aspx}}
+      \field{note}{Accessed: 2024-03-24}
+      \field{title}{Chain rule}
+      \field{year}{2018}
+    \endentry
+    \entry{tallec2017unbiasing}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=53e127de75e9241aa5b25e378a90fea1}{%
+           family={Tallec},
+           familyi={T\bibinitperiod},
+           given={Corentin},
+           giveni={C\bibinitperiod}}}%
+        {{hash=2787d1663a0b8e14480abceab7c7751a}{%
+           family={Ollivier},
+           familyi={O\bibinitperiod},
+           given={Yann},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{8edc800a74c0cbb4ff80e9d3758ea53c}
+      \strng{fullhash}{8edc800a74c0cbb4ff80e9d3758ea53c}
+      \strng{bibnamehash}{8edc800a74c0cbb4ff80e9d3758ea53c}
+      \strng{authorbibnamehash}{8edc800a74c0cbb4ff80e9d3758ea53c}
+      \strng{authornamehash}{8edc800a74c0cbb4ff80e9d3758ea53c}
+      \strng{authorfullhash}{8edc800a74c0cbb4ff80e9d3758ea53c}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.NE}
+      \field{eprinttype}{arXiv}
+      \field{title}{Unbiasing Truncated Backpropagation Through Time}
+      \field{year}{2017}
+      \verb{eprint}
+      \verb 1705.08209
+      \endverb
+    \endentry
+    \entry{zhang2023dive}{book}{}
+      \name{author}{4}{}{%
+        {{hash=983273ab2d972b56d8b64d220726b6aa}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Aston},
+           giveni={A\bibinitperiod}}}%
+        {{hash=599ae457cf41d4ce64e09433edbc964b}{%
+           family={Lipton},
+           familyi={L\bibinitperiod},
+           given={Zachary\bibnamedelima C.},
+           giveni={Z\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=c4a02f87e51fc72ab3f841de1a3982a7}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Mu},
+           giveni={M\bibinitperiod}}}%
+        {{hash=82d61e31b4f7f82ad59ff887349bdfe3}{%
+           family={Smola},
+           familyi={S\bibinitperiod},
+           given={Alexander\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{7174309e70e2a2bac293d53405348f6b}
+      \strng{fullhash}{6bbccfc10d5cec4da080438a1099af8b}
+      \strng{bibnamehash}{7174309e70e2a2bac293d53405348f6b}
+      \strng{authorbibnamehash}{7174309e70e2a2bac293d53405348f6b}
+      \strng{authornamehash}{7174309e70e2a2bac293d53405348f6b}
+      \strng{authorfullhash}{6bbccfc10d5cec4da080438a1099af8b}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{9}
+      \field{note}{\url{https://d2l.ai/chapter_recurrent-neural-networks/index.html}}
+      \field{title}{Dive into Deep Learning}
+      \field{year}{2023}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,21 @@
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Specify files to be treated as binary and managed by Git LFS
+*.h5 filter=lfs diff=lfs merge=lfs -text
+*.pkl filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -tex
+*.tar.gz filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text
+
+
+# Specify files to be treated as text
+*.py text
+*.ipynb text
+*.md text
+*.csv text
+*.json text
+
+# Custom attributes for specific file types
+*.sh eol=lf
+*.bat eol=crlf
